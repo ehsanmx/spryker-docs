@@ -5,6 +5,43 @@ require_once 'vendor/autoload.php';
 define('SRC_DIR', 'src');
 define('DEST_DIR', 'dest');
 
+$entries = [];
+$categoryTitleMap = [];
+$realm = $argv[1] ?? 'dev';
+
+if ($realm !== 'user' && $realm !== 'dev') {
+    throw new Exception('Realm argument must either be "user" or "dev"');
+}
+
+// Build category to category title map
+/** @var \SplFileInfo $fileInfo */
+foreach (loadFiles(SRC_DIR) as $fileInfo) {
+    $path = $fileInfo->getPath();
+    $pathWithoutVersion = preg_replace('/\/v\d+/', '', $path);
+    $categoryTitles = explode('/', $pathWithoutVersion);
+    $normalizedCategoryTitles = array_map(function ($categoryTitle) {
+        return normalize($categoryTitle);
+    }, $categoryTitles);
+
+    $categoryTitleMap += array_combine($normalizedCategoryTitles, $categoryTitles);
+}
+
+/** @var \SplFileInfo $fileInfo */
+foreach (loadFiles(sprintf('%s/scos/%s', DEST_DIR, $realm)) as $fileInfo) {
+    addEntry($fileInfo, $entries, $categoryTitleMap);
+}
+
+$sidebarArray = [
+    'title' => sprintf('SCOS %s Guides', $realm === 'dev' ? 'Developer' : 'User'),
+    'entries' => [
+        'product' => 'SCOS',
+        'nested' => generateSidebarData($entries)
+    ]
+];
+
+$yaml = \Symfony\Component\Yaml\Yaml::dump($sidebarArray);
+file_put_contents(sprintf('scos_%s_sidebar.yml', $realm), $yaml);
+
 function loadFiles(string $path) {
     $fsIterator = new RecursiveDirectoryIterator($path);
     $iterator = new RecursiveIteratorIterator($fsIterator);
@@ -19,7 +56,7 @@ function loadFiles(string $path) {
     }
 }
 
-function normilize(string $str, string $delimiter = '-')
+function normalize(string $str, string $delimiter = '-')
 {
     return strtolower(trim(preg_replace('/[\s-]+/', $delimiter, preg_replace('/[^A-Za-z0-9-.]+/', $delimiter, preg_replace('/[&]/', 'and', preg_replace('/[\']/', '', iconv('UTF-8', 'ASCII//TRANSLIT', $str))))), $delimiter));
 }
@@ -32,15 +69,22 @@ function getTitle(SplFileInfo $fileInfo) {
 }
 
 function buildUrl(SplFileInfo $fileInfo, array $categories) {
+    global $realm;
+
     return sprintf(
-        '/docs/scos/dev/%s/%s',
+        '/docs/scos/%s/%s/%s.html',
+        $realm,
         implode('/', $categories),
         $fileInfo->getBasename('.' . $fileInfo->getExtension())
     );
 }
 
 function getCategories(SplFileInfo $fileInfo) {
-    $categoriesString = substr($fileInfo->getPath(), 14);
+    $categoriesString = preg_replace(
+        sprintf('/^%s\/scos\/(user|dev)\//', DEST_DIR),
+        '',
+        $fileInfo->getPath()
+    );
     $categoriesStringWithoutVersion = preg_replace('/\/\d+\.\d+/', '', $categoriesString);
 
     return explode('/', $categoriesStringWithoutVersion);
@@ -114,7 +158,7 @@ function generateSidebarData($entries) {
         if (!isset($value['url'])) {
             $entryData['nested'] = generateSidebarData($value);
         } else {
-            $entryData['url'] = $value['url'] . '.html';
+            $entryData['url'] = $value['url'];
 
             if (isset($value['include_versions'])) {
                 $entryData['include_versions'] = $value['include_versions'];
@@ -126,35 +170,3 @@ function generateSidebarData($entries) {
 
     return $result;
 }
-
-$entries = [];
-$categoryTitleMap = [];
-
-// Build category to category title map
-/** @var \SplFileInfo $fileInfo */
-foreach (loadFiles(SRC_DIR) as $fileInfo) {
-    $path = $fileInfo->getPath();
-    $pathWithoutVersion = preg_replace('/\/v\d+/', '', $path);
-    $categoryTitles = explode('/', $pathWithoutVersion);
-    $normalizedCategoryTitles = array_map(function ($categoryTitle) {
-        return normilize($categoryTitle);
-    }, $categoryTitles);
-
-    $categoryTitleMap += array_combine($normalizedCategoryTitles, $categoryTitles);
-}
-
-/** @var \SplFileInfo $fileInfo */
-foreach (loadFiles(DEST_DIR) as $fileInfo) {
-    addEntry($fileInfo, $entries, $categoryTitleMap);
-}
-
-$sidebarArray = [
-    'title' => 'SCOS Developer Guides',
-    'entries' => [
-        'product' => 'SCOS',
-        'nested' => generateSidebarData($entries)
-    ]
-];
-
-$yaml = \Symfony\Component\Yaml\Yaml::dump($sidebarArray);
-file_put_contents('sidebar.yml', $yaml);
