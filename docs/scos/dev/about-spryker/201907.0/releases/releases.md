@@ -21,6 +21,6 @@ To receive a **security updates** email, subscribe here:
 
 **What's Next:**
 
-* [Checking for newer versions](/docs/scos/dev/developer-guides/201907.0/installation/composer)
-* [Release notes](/docs/scos/dev/about-spryker/201907.0/releases/release-notes/release-notes)
-* [Migration guides](/docs/scos/dev/migration-and-integration/201907.0/module-migration-guides/about-migration)
+* [Checking for newer versions](/docs/scos/dev/developer-guides/201907.0/installation/composer.html)
+* [Release notes](/docs/scos/dev/about-spryker/201907.0/releases/release-notes/release-notes.html)
+* [Migration guides](/docs/scos/dev/migration-and-integration/201907.0/module-migration-guides/about-migration-guides.html)

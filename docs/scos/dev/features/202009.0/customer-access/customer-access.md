@@ -1,42 +1,36 @@
 ---
-title: Customer Access feature overview
-originalLink: https://documentation.spryker.com/v6/docs/customer-access-feature-overview
+title: Customer Access
+originalLink: https://documentation.spryker.com/v6/docs/customer-access
 redirect_from:
-  - /v6/docs/customer-access-feature-overview
-  - /v6/docs/en/customer-access-feature-overview
+  - /v6/docs/customer-access
+  - /v6/docs/en/customer-access
 ---
 
-Customer Access allows Store Administrators to decide whether a certain information is visible to logged out users or not.
+In every B2B field, competition plays a major role. It forces business owners to focus on the core audience and improve the pricing strategy. Seeing what your competitors do well can provide a valuable insight into the state of the market and show what works and what doesn't. Still, for competitive or security reasons, because of customer loyalty or exclusivity, some shop owners would prefer to hide certain product information (e.g. prices, availability of stock) from competitors or other entities that do not have a buying intention. For cases like this, we have the Customer Access feature.
 
-After enabling the feature in your project, Store Administrator can see a new submenu **Customer Access** under **Customer** menu. Using Customer Access submenu, Store Administrator can hide the following content types:
+The feature allows you to give your customers the ability to hide content from End Customers that are not logged-in to their shop. You can restrict access to Prices, Products, Product Availability, Cart, and Shopping Lists (see the screenshot below).
 
-![content-types.png](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Company+Account+Management/Hide+Content+from+Logged+out+Users/Hide+Content+from+Logged+out+Users+Overview/content-types.png)
+![Content Restrictions](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Company+Account+Management/Hide+Content+from+Logged+out+Users/Hide+Content+from+Logged+out+Users/Content+restrictions.png)
 
-* **price** 
-A visitor will not see the price if they are not logged in:
+#### If you are:
 
-
-**Settings in Admin UI (on the left)**
-**Shop application (on the right)**
-
-![price_not_shown_for_non_logged_in_user.png](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Company+Account+Management/Hide+Content+from+Logged+out+Users/Hide+Content+from+Logged+out+Users+Overview/price_not_shown_for_non_logged_in_user.png)
-
-* **order-place-submit**
-Having clicked on the Checkout button, the visitor is taken to the login page.
-
-* **add-to-cart**
-To be able to add the item to the cart, a visitor needs to log in.
-
-* **wishlist**
-Add to wishlist button is not available for a logged out user.
-
-* **shopping-list**
-Add to shopping list button is not available for a logged out user.
-
-These content types are predetermined, though, you can extend the configuration on a project level. By default, all content types are hidden for a logged out user.
-
-{% info_block errorBox %}
-An unauthorized user will not be able to proceed with the checkout even if Add to Cart button is available. The user will see the login page.
-{% endinfo_block %}
-
-<!-- _Last review date: Oct 26, 2018_ by Oleh Hladchenko, Oksana Karasyova -->
+<div class="mr-container">
+    <div class="mr-list-container">
+        <!-- col1 -->
+        <div class="mr-col">
+            <ul class="mr-list mr-list-green">
+                <li class="mr-title">Developer</li>
+                <li><a href="https://documentation.spryker.com/docs/hide-content-from-logged-out-users-overview" class="mr-link">Get a general idea of the Customer Access feature</a></li>
+                <li><a href="https://documentation.spryker.com/docs/customer-access-feature-integration" class="mr-link">Integrate the Customer Access feature into your project</a></li>
+            </ul>
+        </div>
+<!-- col2 -->
+        <div class="mr-col">
+            <ul class="mr-list mr-list-blue">
+                <li class="mr-title"> Back Office User</li>
+                <li><a href="https://documentation.spryker.com/docs/hide-content-from-logged-out-users-overview" class="mr-link">Get a general idea of the Customer Access feature</a></li>
+                <li><a href="https://documentation.spryker.com/docs/managing-customer-access" class="mr-link">Manage customer access</a></li>
+            </ul>
+        </div>
+        </div>
+</div>

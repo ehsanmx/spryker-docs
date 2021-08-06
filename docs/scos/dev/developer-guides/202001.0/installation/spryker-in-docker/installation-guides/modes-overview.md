@@ -16,12 +16,12 @@ In this section, you can find installation guides for Spryker in Docker. Spryker
 ### Configuration
 You can switch between Demo ( `DEMO`) and Development ( `DEV`) modes, but, usually, only one mode is used.
 
-The mode is defined in one of the [Deploy files](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/docker-sdk/deploy-file-ref): 
+The mode is defined in one of the [Deploy files](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/docker-sdk/deploy-file-reference-1.0.html): 
 * `deploy.yml` for the `DEMO` mode
 *  `deploy.dev.yml` for `DEV` mode
 
 ## Development Mode 
-Development mode is a configuration in which Spryker is built and running with development tools and file synchronization. Learn about Development mode below or follow [Installation Guide - Development mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-gu) to Install Spryker in this mode.
+Development mode is a configuration in which Spryker is built and running with development tools and file synchronization. Learn about Development mode below or follow [Installation Guide - Development mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-guide-development-mode.html) to Install Spryker in this mode.
 
 ### Use Cases
 Develpment mode is used in the following cases:
@@ -54,7 +54,7 @@ In Development mode, you can access your PostgreSQL database using the credentia
 * `user` - `spryker`
 * `pw` - `secret`
 
-The credentials can be changed in the [Deploy file](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/docker-sdk/deploy-file-ref).
+The credentials can be changed in the [Deploy file](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/docker-sdk/deploy-file-reference-1.0.html).
 
 ### Debugging
 In Development mode, you can use [Xdebug](https://xdebug.org) for debugging.
@@ -63,11 +63,11 @@ Run the command, to enable it:
 docker/sdk {run|start|up} -x
 ``` 
 
-Find more more information on debugging with Xdebug in [Debugging Setup in Docker](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/debugging-setup).
+Find more more information on debugging with Xdebug in [Debugging Setup in Docker](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/debugging-setup-in-docker.html).
 
 
 ## Demo Mode 
-Demo mode is a configuration in which Spryker is built and running without development tools, like file synchronization. As a result, Docker images in this mode are smaller. Learn about Demo mode below or follow [Installation Guide - Demo mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-gu) to Install Spryker in this mode.
+Demo mode is a configuration in which Spryker is built and running without development tools, like file synchronization. As a result, Docker images in this mode are smaller. Learn about Demo mode below or follow [Installation Guide - Demo mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-guide-demo-mode.html) to Install Spryker in this mode.
 
 In Demo mode, the following functionalities are missing or disabled:
 1. [Swagger UI service](https://documentation.spryker.com/v4/docs/services#swagger-ui) - this image is not built, and the container is not running.
@@ -83,17 +83,17 @@ Demo mode is used in the following cases:
 ## Integrating Docker Existing Projects
 
 If you are already running a Spryker project based on Development Virtual Machine or any other solution, you can convert it into a Docker based project. 
-Learn how to convert a project into a Docker based instance in [Integrating Docker Existing Projects](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/integrating-doc).
+Learn how to convert a project into a Docker based instance in [Integrating Docker Existing Projects](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/integrating-docker-into-existing-projects.html).
 
 ## Running Production 
 
 Currently, there is no installation guide for deploying Spryker in Docker in a production environment. But you can generate the images suitable for a production environment and the archives with assets for each application - Yves, Zed and Glue. 
 
-Learn how to generate Docker images and assets for a production environment in [Running Production](/docs/scos/dev/developer-guides/202001.0/development-guide/back-end/running-product).
+Learn how to generate Docker images and assets for a production environment in [Running Production](/docs/scos/dev/developer-guides/202001.0/development-guide/back-end/running-production.html).
 
 **What's next?**
 Once you've selected and installation mode, follow one of the guides below:
-* [Installation Guide - Development Mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-gu)
-* [Installation Guide- Demo Mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-gu)
-* [Integrating Docker into Existing Projects](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/integrating-doc)
-* [Running Production](/docs/scos/dev/developer-guides/202001.0/development-guide/back-end/running-product)
+* [Installation Guide - Development Mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-guide-development-mode.html)
+* [Installation Guide- Demo Mode](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/installation-guide-demo-mode.html)
+* [Integrating Docker into Existing Projects](/docs/scos/dev/developer-guides/202001.0/installation/spryker-in-docker/installation-guides/integrating-docker-into-existing-projects.html)
+* [Running Production](/docs/scos/dev/developer-guides/202001.0/development-guide/back-end/running-production.html)

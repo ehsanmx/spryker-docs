@@ -25,6 +25,6 @@ We are happy to help you!
 ## Browse Section
 
 <!--* [FAQ](https://documentation.spryker.com/about_spryker/understanding_spryker/faq.htm) - Frequently Asked Questions -->
-* [Videos](/docs/scos/dev/about-spryker/201811.0/videos-and-webinars/videos){target="_blank"} - Videos and Webinars
+* [Videos](/docs/scos/dev/about-spryker/201811.0/videos-and-webinars/spryker-videos.html){target="_blank"} - Videos and Webinars
 * [Forum](https://discuss.spryker.com/) - Spryker Commerce OS’s Community Forum
 * [Support](https://github.com/spryker/support) - Spryker Commerce OS’s Support Page

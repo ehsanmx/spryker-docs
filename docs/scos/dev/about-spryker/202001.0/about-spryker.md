@@ -55,24 +55,24 @@ SCOS is split into four different layers:
 * The separation ensures that **essential information is not tied-up with presentation**. You can easily swap-out, extend, replace this information, as well as change the ways it is presented.
 
 ## Spryker B2B/B2C Demo Shops
-Our [B2B](/docs/scos/dev/about-spryker/202001.0/b2b-suite) and [B2C Demo Shops](/docs/scos/dev/about-spryker/202001.0/b2c-suite) showcase Spryker functionality and help you choose the best possible starting point and set of features based on your business needs. The Deomo Shops pose a clear starting point and upgrade path for everything you base your project on. We ship our B2B/B2C Demo Shops as a part of the product, covered by the same commercial license and the same support and LTS (long-term support) rules as individual Spryker Commerce OS modules.
+Our [B2B](/docs/scos/dev/about-spryker/202001.0/b2b-suite.html) and [B2C Demo Shops](/docs/scos/dev/about-spryker/202001.0/b2c-suite.html) showcase Spryker functionality and help you choose the best possible starting point and set of features based on your business needs. The Deomo Shops pose a clear starting point and upgrade path for everything you base your project on. We ship our B2B/B2C Demo Shops as a part of the product, covered by the same commercial license and the same support and LTS (long-term support) rules as individual Spryker Commerce OS modules.
 
 ## I am a New Customer, Where Should I Start?
-The recommended starting points for all standard commerce projects are our [B2B](/docs/scos/dev/about-spryker/202001.0/b2b-suite) and [B2C Demo Shops](/docs/scos/dev/about-spryker/202001.0/b2c-suite). We have taken the time to identify the best combination of modules and functionalities for each particular business type and to keep development as lean as possible. Thus, the only thing that remains is to identify your business requirements and select the shop that fits your needs best.
+The recommended starting points for all standard commerce projects are our [B2B](/docs/scos/dev/about-spryker/202001.0/b2b-suite.html) and [B2C Demo Shops](/docs/scos/dev/about-spryker/202001.0/b2c-suite.html). We have taken the time to identify the best combination of modules and functionalities for each particular business type and to keep development as lean as possible. Thus, the only thing that remains is to identify your business requirements and select the shop that fits your needs best.
 
 Apart from that, if your business case does not fit in one of the proposed models, you can start building your project by cherry-picking the modules you need. Since they are released under a commercial license with stable and predictable release cycles, you can build your e-commerce business with reliance and certainty. Our engineers make sure that each module is reliable, backward compatible, and fully regression-tested, and all our releases are supported with an LTS flag (12 months).
 
 ## What’s Next?
 This documentation site contains lots of information on Spryker Commerce OS. Select one of the topics below depending on what you want to do next:
 
-* [What's new](/docs/scos/dev/about-spryker/202001.0/whats-new/whats-new): general information about Spryker, news, and release notes.
-* [Spryker Installation Guides](/docs/scos/dev/developer-guides/202001.0/installation/about-installat): installation of Spryker.
+* [What's new](/docs/scos/dev/about-spryker/202001.0/whats-new/whats-new.html): general information about Spryker, news, and release notes.
+* [Spryker Installation Guides](/docs/scos/dev/developer-guides/202001.0/installation/about-the-installation-guides.html): installation of Spryker.
 * [Features](https://documentation.spryker.com/v4/docs/about-features): the Spryker features.
-* [Glue REST API](/docs/scos/dev/glue-api/202001.0/glue-rest-api): Spryker Glue REST API overview, reference, and features.
-* [User Guides](/docs/scos/dev/user-guides/202001.0/about-user-guid): step-by-step Backoffice and Storefront user guides.
-* [Developer Guides](/docs/scos/dev/developer-guides/202001.0/about-developer): technical information and guides for developers. 
+* [Glue REST API](/docs/scos/dev/glue-api/202001.0/glue-rest-api.html): Spryker Glue REST API overview, reference, and features.
+* [User Guides](/docs/scos/dev/user-guides/202001.0/about-user-guides.html): step-by-step Backoffice and Storefront user guides.
+* [Developer Guides](/docs/scos/dev/developer-guides/202001.0/about-the-developer-guides.html): technical information and guides for developers. 
 * [Technology Partners](https://documentation.spryker.com/v4/docs/partner-integration): Spryker technology partners information and integration guides.
-* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/202001.0/about-migration): instructions on how to migrate to newer versions of modules or features.
-* [Tutorials](/docs/scos/dev/tutorials/202001.0/about-tutorials): tutorials and HowTos.
+* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/202001.0/about-migration-and-integration-guides.html): instructions on how to migrate to newer versions of modules or features.
+* [Tutorials](/docs/scos/dev/tutorials/202001.0/about-tutorials.html): tutorials and HowTos.
 
 

@@ -36,8 +36,8 @@ During the source code audit, no actual vulnerabilities could be identified whil
 
 The safe use of functions and the lack of critical vulnerabilities such as SQL injection show that the framework seems very robust against a vast range of attacks. The source code of Spryker Commerce OS application is well structured and easy to read and extend. We use the functionality to make sure that no critical PHP functions are used which can easily be extended to cover other probable issues.
 
-To enforce the secure coding practices, our team has improved a custom code sniffer, that prevents usage of potentially vulnerable code patterns. You can find an overview of the sniffer tool in the [Code Sniffer](/docs/scos/dev/features/202001.0/sdk/development-tools/code-sniffer) article. We recommend using a code sniffer when developing a project that uses our Commerce OS.
+To enforce the secure coding practices, our team has improved a custom code sniffer, that prevents usage of potentially vulnerable code patterns. You can find an overview of the sniffer tool in the [Code Sniffer](/docs/scos/dev/features/202001.0/sdk/development-tools/code-sniffer.html) article. We recommend using a code sniffer when developing a project that uses our Commerce OS.
 
 For each of the security vulnerabilities, a detailed risk analysis has been performed that is documented throughout the report. For more information, please reach out for a more extended version of this report to [Spryker Systems](mailto:academy@spryker.com).
 
-See [Secure Coding Practices](/docs/scos/dev/developer-guides/202001.0/development-guide/guidelines/coding-guidelines/secure-coding-p) for a list of secure coding recommendations.
+See [Secure Coding Practices](/docs/scos/dev/developer-guides/202001.0/development-guide/guidelines/coding-guidelines/secure-coding-practices.html) for a list of secure coding recommendations.

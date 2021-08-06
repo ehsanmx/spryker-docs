@@ -10,7 +10,7 @@ redirect_from:
 
 Spryker Docker SDK helps to set up docker environment for your Spryker project.
 
-Spryker Docker SDK requires the [Deploy file](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/docker-sdk/deploy-file-ref). The tool reads the specified Deploy file and builds a production-like Docker infrastructure for Spryker accordingly.
+Spryker Docker SDK requires the [Deploy file](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/docker-sdk/deploy-file-reference-1.0.html). The tool reads the specified Deploy file and builds a production-like Docker infrastructure for Spryker accordingly.
 
 The purposes of the tool:
 
@@ -47,7 +47,7 @@ Make sure all the domains from `deploy.yml` are defined as `127.0.0.1` in the `h
 
 There are two ways to start working with Spryker in Docker:
 
-* If you want to set up a new Spryker project in Docker, start with [Getting Started with Docker](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/getting-started).
-* If you already have a DevVM based project, proceed to [Integrating Docker into an Existing Project](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/integrating-doc) to convert your project into a Docker based one.
+* If you want to set up a new Spryker project in Docker, start with [Getting Started with Docker](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/getting-started-with-docker.html).
+* If you already have a DevVM based project, proceed to [Integrating Docker into an Existing Project](/docs/scos/dev/developer-guides/201907.0/installation/spryker-in-docker/integrating-docker-into-an-existing-project.html) to convert your project into a Docker based one.
 
 <!-- Last review date: Aug 06, 2019by Mike Kalinin, Andrii Tserkovnyi -->

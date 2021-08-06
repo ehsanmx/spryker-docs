@@ -37,8 +37,8 @@ The `SprykerEco.CrefoPay` module provides the following payment methods:
 ## What's next?
 To integrate CrefoPay into your system the see following articles:
 
-* [CrefoPay - Installation and Configuration](/docs/scos/dev/technology-partners/202001.0/payment-partners/crefopay/crefopay-config)
-* [CrefoPay - Integration](/docs/scos/dev/technology-partners/202001.0/payment-partners/crefopay/crefopay-integr)
+* [CrefoPay - Installation and Configuration](/docs/scos/dev/technology-partners/202001.0/payment-partners/crefopay/crefopay-installation-and-configuration.html)
+* [CrefoPay - Integration](/docs/scos/dev/technology-partners/202001.0/payment-partners/crefopay/crefopay-integration.html)
 
 To learn more about the payment methods provided by CrefoPay, see CrefoPay - Provided Payment Methods
 

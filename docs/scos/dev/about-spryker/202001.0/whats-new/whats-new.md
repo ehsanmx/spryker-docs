@@ -72,11 +72,11 @@ Agent Assist
 
 To subscribe to our release notes and security updates, see the following articles:
 
-* [Releases](/docs/scos/dev/about-spryker/202001.0/releases/releases)
-* [Release Notes 2018.11.0](/docs/scos/dev/about-spryker/202001.0/releases/release-notes/release-notes-2018.11.0/release-notes-2)
-* [Security Updates](/docs/scos/dev/about-spryker/202001.0/whats-new/security-update)
+* [Releases](/docs/scos/dev/about-spryker/202001.0/releases/releases.html)
+* [Release Notes 2018.11.0](/docs/scos/dev/about-spryker/202001.0/releases/release-notes/release-notes-2018.11.0/release-notes-2018.11.0.html)
+* [Security Updates](/docs/scos/dev/about-spryker/202001.0/whats-new/security-updates.html)
 
-To check our previous release notes, go to the [Releases Archive](/docs/scos/dev/about-spryker/202001.0/releases/releases-archiv) section.
+To check our previous release notes, go to the [Releases Archive](/docs/scos/dev/about-spryker/202001.0/releases/releases-archive.html) section.
 
 <!--
 <details open>

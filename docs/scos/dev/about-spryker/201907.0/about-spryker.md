@@ -14,7 +14,7 @@ We establish a unique advantage for our customers by creating a commerce operati
 
 ### Modular Architecture
 Modular architecture, or modularity of the Spryker Commerce OS, means that the system is composed of small parts called modules. The Spryker Commerce OS consists of over 750 modules. Some of them are mandatory and required by the OS to run, but many are optional and designed to provide certain functionality or connectivity to either internal or external systems.
-The modules combine to create [features](/docs/scos/dev/features/201907.0/about-features) and have limited dependencies. The limited dependencies imply less development effort, increasing your return on investment and lowering the total cost of ownership.
+The modules combine to create [features](/docs/scos/dev/features/201907.0/features.html) and have limited dependencies. The limited dependencies imply less development effort, increasing your return on investment and lowering the total cost of ownership.
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/About+Spryker/modularity_transparent.png){height="" width=""}
 
 #### Benefits of the Spryker modular architecture:
@@ -55,7 +55,7 @@ SCOS is split into four different layers:
 * The separation ensures that **essential information is not tied-up with presentation**. You can easily swap-out, extend, replace this information, as well as change the ways it is presented.
 
 ## Spryker B2B/B2C Demo Shops
-Our [Demo Shops](/docs/scos/dev/about-spryker/201907.0/demoshops) showcase Spryker functionality and help you choose the best possible starting point and set of features based on your business needs. The Deomo Shops pose a clear starting point and upgrade path for everything you base your project on. We ship our B2B/B2C Demo Shops as a part of the product, covered by the same commercial license and the same support and LTS (long-term support) rules as individual Spryker Commerce OS modules.
+Our [Demo Shops](/docs/scos/dev/about-spryker/201907.0/demo-shops.html) showcase Spryker functionality and help you choose the best possible starting point and set of features based on your business needs. The Deomo Shops pose a clear starting point and upgrade path for everything you base your project on. We ship our B2B/B2C Demo Shops as a part of the product, covered by the same commercial license and the same support and LTS (long-term support) rules as individual Spryker Commerce OS modules.
 
 ## I am a New Customer, Where Should I Start?
 The recommended starting points for all standard commerce projects are our [B2B](https://documentation.spryker.com/v3/docs/demoshops#b2b-demo-shop) and B2C Demo Shops [B2C Demo Shops](https://documentation.spryker.com/v3/docs/demoshops#b2c-demo-shop). We have taken the time to identify the best combination of modules and functionalities for each particular business type and to keep development as lean as possible. Thus, the only thing that remains is to identify your business requirements and select the shop that fits your needs best.
@@ -65,12 +65,12 @@ Apart from that, if your business case does not fit in one of the proposed model
 ## What’s Next?
 This documentation site contains lots of information on Spryker Commerce OS. Select one of the topics below depending on what you want to do next:
 
-* [About Spryker](/docs/scos/dev/about-spryker/201907.0/about-spryker): general information about Spryker, news, and release notes.
-* [Spryker Installation Guides](/docs/scos/dev/developer-guides/201907.0/installation/about-installat): to install Spryker.
+* [About Spryker](/docs/scos/dev/about-spryker/201907.0/about-spryker.html): general information about Spryker, news, and release notes.
+* [Spryker Installation Guides](/docs/scos/dev/developer-guides/201907.0/installation/about-the-installation-guides.html): to install Spryker.
 * [Features](https://documentation.spryker.com/v3/docs/en/about-features): to learn about the Spryker features.
-* [Glue REST API](/docs/scos/dev/glue-api/201907.0/glue-rest-api): for the Spryker Glue REST API overview, reference, and features.
-* [User Guides](/docs/scos/dev/user-guides/201907.0/about-user-guid): step-by-step Backoffice and Storefront user guides.
-* [Developer Guides](/docs/scos/dev/developer-guides/201907.0/about-developer): technical information and guides for developers. 
+* [Glue REST API](/docs/scos/dev/glue-api/201907.0/glue-rest-api.html): for the Spryker Glue REST API overview, reference, and features.
+* [User Guides](/docs/scos/dev/user-guides/201907.0/about-user-guides.html): step-by-step Backoffice and Storefront user guides.
+* [Developer Guides](/docs/scos/dev/developer-guides/201907.0/about-the-developer-guides.html): technical information and guides for developers. 
 * [Technology Partners]https://documentation.spryker.com/v3/docs/partner-integration): Spryker technology partners information and integration guides.
-* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/201907.0/about-migration): instructions on how to migrate to newer versions of modules or features.
-* [Tutorials](/docs/scos/dev/tutorials/201907.0/about-tutorials): for tutorials and HowTos.
+* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/201907.0/about-migration-and-integration-guides.html): instructions on how to migrate to newer versions of modules or features.
+* [Tutorials](/docs/scos/dev/tutorials/201907.0/about-tutorials.html): for tutorials and HowTos.

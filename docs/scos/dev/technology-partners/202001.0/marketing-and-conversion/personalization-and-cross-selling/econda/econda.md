@@ -38,7 +38,7 @@ Some examples can be found at [http://downloads.econda.de/support/releases/js-sd
 
 Details on how to work with Javascript and templates in Spryker can be found in Front-End Guide<!-- link -->.
 
-Econda module uses collectors to [export data to CSV](/docs/scos/dev/technology-partners/202001.0/marketing-and-conversion/personalization-and-cross-selling/econda/econda-export-c). Please read more about Collectors.
+Econda module uses collectors to [export data to CSV](/docs/scos/dev/technology-partners/202001.0/marketing-and-conversion/personalization-and-cross-selling/econda/econda-exporting-csvs.html). Please read more about Collectors.
 
 ## Installation
 

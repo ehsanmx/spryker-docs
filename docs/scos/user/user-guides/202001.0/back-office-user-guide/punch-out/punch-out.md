@@ -23,5 +23,5 @@ The following important technical information can be found in these sections:
 ***
 **What's next?**
 
-To learn how to create and manage the Punch Out connections, see [Managing Punch Out connections](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/punch-out/managing-puncho).
-To learn how to manage the Punch Out translation logs, see  [Managing transaction logs](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/punch-out/managing-transa).
+To learn how to create and manage the Punch Out connections, see [Managing Punch Out connections](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/punch-out/managing-punch-out-connections.html).
+To learn how to manage the Punch Out translation logs, see  [Managing transaction logs](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/punch-out/managing-transactions-log.html).

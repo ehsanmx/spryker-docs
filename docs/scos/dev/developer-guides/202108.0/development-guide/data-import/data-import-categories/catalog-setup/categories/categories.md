@@ -9,7 +9,7 @@ redirect_from:
 **Categories** contains data required to set up categories in your online store. We have structured this section according to the two .csv files that you will have to use to import the data:
 
 * [category.csv](https://documentation.spryker.com/docs/file-details-categorycsv): allows you to import all relevant information about the categories such as categories names, key, descriptions and additional settings like activating them or allowing customers to search for them.
-* [category_template.csv:](/docs/scos/dev/developer-guides/202005.0/development-guide/data-import/data-import-categories/catalog-setup/categories/file-details-ca) allows you to import any category templates.
+* [category_template.csv:](/docs/scos/dev/developer-guides/202005.0/development-guide/data-import/data-import-categories/catalog-setup/categories/file-details-category-template.csv.html) allows you to import any category templates.
 
 The table below provides details on Categories data importers, their purpose, .csv files, dependencies, and other details. Each data importer contains links to .csv files used to import the corresponding data, including specifications of mandatory and unique fields, dependencies, detailed explanations, recommendations, templates, and content examples.
 

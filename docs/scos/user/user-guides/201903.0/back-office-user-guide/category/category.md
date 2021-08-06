@@ -19,9 +19,9 @@ This is how a Product Catalog Manager can create a structure to display products
  ***
  **What's Next?**
  To know how the categories are created and managed, see the following articles:
-* [Creating Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/creating-catego)
-*  [Assigning Products to Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/assigning-produ)
-*  [Managing Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/managing-catego)
+* [Creating Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/creating-categories.html)
+*  [Assigning Products to Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/assigning-products-to-categories.html)
+*  [Managing Categories](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/managing-categories.html)
  
 To know more about the attributes you use to create and manage the categories, see the following article:
-* [Category: Reference Information](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/references/category-refere)
+* [Category: Reference Information](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/references/category-reference-information.html)

@@ -65,14 +65,14 @@ Apart from that, if your business case does not fit in one of the proposed model
 ## What’s Next?
 This documentation site contains lots of information on Spryker Commerce OS. Select one of the topics below depending on what you want to do next:
 
-* [What's new](/docs/scos/dev/about-spryker/202005.0/whats-new/whats-new): general information about Spryker, news, and release notes.
-* [Spryker Installation Guides](/docs/scos/dev/developer-guides/202005.0/installation/about-installat): installation of Spryker.
-* [Features](/docs/scos/dev/features/202005.0/about-features): the Spryker features.
-* [Glue REST API](/docs/scos/dev/glue-api-guides/202005.0/glue-rest-api): Spryker Glue REST API overview, reference, and features.
-* [User Guides](/docs/scos/dev/user-guides/202005.0/about-user-guid): step-by-step Backoffice and Storefront user guides.
-* [Developer Guides](/docs/scos/dev/developer-guides/202005.0/about-developer): technical information and guides for developers. 
+* [What's new](/docs/scos/dev/about-spryker/202005.0/whats-new/whats-new.html): general information about Spryker, news, and release notes.
+* [Spryker Installation Guides](/docs/scos/dev/developer-guides/202005.0/installation/about-the-installation-guides.html): installation of Spryker.
+* [Features](/docs/scos/dev/features/202005.0/about-features.html): the Spryker features.
+* [Glue REST API](/docs/scos/dev/glue-api-guides/202005.0/glue-rest-api.html): Spryker Glue REST API overview, reference, and features.
+* [User Guides](/docs/scos/dev/user-guides/202005.0/about-user-guides.html): step-by-step Backoffice and Storefront user guides.
+* [Developer Guides](/docs/scos/dev/developer-guides/202005.0/about-the-developer-guides.html): technical information and guides for developers. 
 * [Technology Partners](https://documentation.spryker.com/v5/docs/partner-integration): Spryker technology partners information and integration guides.
-* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/202005.0/about-migration): instructions on how to migrate to newer versions of modules or features.
-* [Tutorials](/docs/scos/dev/tutorials/202005.0/about-tutorials): tutorials and HowTos.
+* [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/202005.0/about-migration-and-integration-guides.html): instructions on how to migrate to newer versions of modules or features.
+* [Tutorials](/docs/scos/dev/tutorials/202005.0/about-tutorials.html): tutorials and HowTos.
 
 

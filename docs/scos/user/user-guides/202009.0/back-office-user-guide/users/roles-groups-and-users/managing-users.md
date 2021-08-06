@@ -33,7 +33,7 @@ You have already done the primary setup (you have created a [role](https://docum
     
 {% info_block infoBox %}
 
- See [User: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/users-control/roles-groups-and-users/references/user-reference-) for details on these attributes.
+ See [User: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/users-control/roles-groups-and-users/references/user-reference-information.html) for details on these attributes.
 
 {% endinfo_block %}       
 3. Click **Create**.
@@ -62,7 +62,7 @@ To de-assign a customer:
 
 ## Editing a user
 **To edit a user:**
-1. In **Users List > Action** column, click **Edit**  if you want to change user's details. See [User: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/users-control/roles-groups-and-users/references/user-reference-) for  more details.
+1. In **Users List > Action** column, click **Edit**  if you want to change user's details. See [User: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/users-control/roles-groups-and-users/references/user-reference-information.html) for  more details.
 2. When the updates are done, click **Update**.
 
 ## Activating and deactivating a user

@@ -20,4 +20,4 @@ This is how the Customer Service deals with the customers' reviews to create a l
 
 To get information on how to manage the reviews, read the following article:
 
-* [Managing Reviews](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/products/product-reviews/managing-produc)
+* [Managing Reviews](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/products/product-reviews/managing-product-reviews.html)

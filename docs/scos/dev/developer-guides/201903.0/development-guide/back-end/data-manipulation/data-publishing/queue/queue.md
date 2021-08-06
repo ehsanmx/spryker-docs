@@ -133,7 +133,7 @@ $jobs[] = [
 ```
 
 {% info_block infoBox %}
-For more information and examples of how to get started with the Queue module, see [Tutorial - Set Up a "Hello World" Queue](/docs/scos/dev/tutorials/201903.0/introduction/setup-hello-wor
+For more information and examples of how to get started with the Queue module, see [Tutorial - Set Up a "Hello World" Queue](/docs/scos/dev/tutorials/201903.0/introduction/tutorial-set-up-a-hello-world-queue-legacy-demoshop.html
 {% endinfo_block %}.)
 
 <!-- Last review date: Apr 9, 2019 by Ehsan Zanjani and Dmitry Beirak -->

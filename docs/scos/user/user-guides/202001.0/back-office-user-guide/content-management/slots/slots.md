@@ -26,11 +26,11 @@ On entering the page. the following is selected by default:
 * The first CMS Block from the **List of Blocks for Slot [name]** is selected by default. In the **Product Pages** field, you can see the pages in which this CMS block is displayed. Click on a different CMS block to display its pages.
 
 {% info_block warningBox "Integration required" %}
-You can work with slots after the [Templates & Slots feature has been integrated](/docs/scos/dev/migration-and-integration/202001.0/feature-integration-guides/cms-feature-int
+You can work with slots after the [Templates & Slots feature has been integrated](/docs/scos/dev/migration-and-integration/202001.0/feature-integration-guides/cms-feature-integration-guide.html
 {% endinfo_block %} into your project.)
 ***
 **What's next?**
 
-* To learn how to add content to Storefront pages using Templates & Slots, see [Adding Content to Storefront Pages Using Templates & Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/adding-content-).
-* To learn how to activate or deactivate slots, assign CMS blocks to a slot, change the order of CMS blocks assigned to a slot, delete an assignment or select the pages in which a CMS block is displayed, see [Managing Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/managing-slots). 
-* To learn about the attributes you can see in the **Slots** section, see the [Slots: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference) section. 
+* To learn how to add content to Storefront pages using Templates & Slots, see [Adding Content to Storefront Pages Using Templates & Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/adding-content-to-storefront-pages-using-templates-and-slots.html).
+* To learn how to activate or deactivate slots, assign CMS blocks to a slot, change the order of CMS blocks assigned to a slot, delete an assignment or select the pages in which a CMS block is displayed, see [Managing Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/managing-slots.html). 
+* To learn about the attributes you can see in the **Slots** section, see the [Slots: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html) section. 
