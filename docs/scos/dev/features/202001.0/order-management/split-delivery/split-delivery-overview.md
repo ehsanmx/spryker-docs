@@ -33,7 +33,7 @@ Then, in the *Shipment* checkout step, you can see the products grouped by the s
 
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/User+Guides/Shop+User+Guides/Checkout/Shop+Guide+-+Summary+Step/summary-step-new.png){height="" width=""}
 
-See [Shop Guide - Address](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-checkout/shop-guide-address-step.html) for more details on how to add multiple delivery addresses to order items in the Storefront.
+See [Shop Guide - Address](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-checkout/shop-guide-address-step.html) for more details on how to add multiple delivery addresses to order items in the Storefront.
 
 ## Split Delivery in the Back Office
 In the Back Office, the shipments are displayed in the *Order Items* section on the **View Order: [Order ID]** page.
@@ -47,7 +47,7 @@ Here you can perform the following actions on shipments:
 * Move items between shipments
 * Change the state of each item or all items per shipment
 
-See [Orders](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/sales/orders/managing-orders.html) for more details on how to create and manage shipments in the Back Office.
+See [Orders](/docs/scos/user/user-guides/202001.0/back-office-user-guide/sales/orders/managing-orders.html) for more details on how to create and manage shipments in the Back Office.
 
 ## Constraints
 ### Gift Card Compatibility

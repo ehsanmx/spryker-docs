@@ -72,7 +72,7 @@ The _Edit shopping list_ page opens where you can:
 
 {% info_block warningBox %}
 To be able to search for products, make sure that [Search Widget for Concrete Products](https://documentation.spryker.com/v2/docs/search-widget-for-concrete-products-overview-201903
-{% endinfo_block %} feature is [integrated](/docs/scos/dev/user-guides/201907.0/shop-user-guide/shop-guide-shopping-lists.html) into your project.)
+{% endinfo_block %} feature is [integrated](/docs/scos/user/user-guides/201907.0/shop-user-guide/shop-guide-shopping-lists.html) into your project.)
 
 * View the shopping list owner and access rights.
 ![View a shopping list owner and access rights](https://spryker.s3.eu-central-1.amazonaws.com/docs/User+Guides/Shop+User+Guides/Shopping+Lists/view-owner-on-edit-page.png){height="" width=""}
@@ -138,7 +138,7 @@ To add a shopping list with product items to cart, select the shopping list (lis
 
 ![Add selected to cart](https://spryker.s3.eu-central-1.amazonaws.com/docs/User+Guides/Shop+User+Guides/Shopping+Lists/place-order.png){height="" width=""}
 
-The shopping list with the available items will be added to the shopping cart. See [Shopping Cart](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-shopping-carts/shop-guide-managing-shopping-carts.html) to learn how to manage and purchase items using the cart.
+The shopping list with the available items will be added to the shopping cart. See [Shopping Cart](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-shopping-carts/shop-guide-managing-shopping-carts.html) to learn how to manage and purchase items using the cart.
 
 ### Dismissing Shared Shopping Lists
 

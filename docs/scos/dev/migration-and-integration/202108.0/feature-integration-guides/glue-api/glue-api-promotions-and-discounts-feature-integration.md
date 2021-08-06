@@ -881,7 +881,7 @@ Verify the `DiscountPromotionCartItemExpanderPlugin` and `DiscountPromotionCartI
 
 Prerequisites:
 
-* Have a discount rule for a product. Discount application type should be Promotional product (see [Creating a Cart Rule Discount](/docs/scos/dev/user-guides/202005.0/back-office-user-guide/merchandising/discount/creating-a-discount/creating-a-cart-rule.html)).
+* Have a discount rule for a product. Discount application type should be Promotional product (see [Creating a Cart Rule Discount](/docs/scos/user/user-guides/202005.0/back-office-user-guide/merchandising/discount/creating-a-discount/creating-a-cart-rule.html)).
 * Create a cart with items that satisfy the conditions of the discount rule.
 * Get a concrete promotional product SKU.
 

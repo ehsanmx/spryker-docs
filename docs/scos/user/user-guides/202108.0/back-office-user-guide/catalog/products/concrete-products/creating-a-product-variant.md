@@ -39,7 +39,7 @@ The merchant relation prices are inherited by Product Variants as well.
     3. **B2B only:** In **Merchant Price Dimension**, select the merchant relationship to define a special price per merchant relation. See [Merchants](https://documentation.spryker.com/docs/merchants) for more information.
     4. Select **Quantity** for the product and then select **Never out of stock** if you want the product to never go out of stock.
 5. **Optionally**: Click **Next** to go to the *Image* to add images for the product and define the image order.
- 6. **Optionally**: Click **Next** of select the *Assign bundled products* tab to create a bundles product. See [Creating and Managing Product Bundles](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/products/managing-products/creating-and-managing-product-bundles.html) to know more.
+ 6. **Optionally**: Click **Next** of select the *Assign bundled products* tab to create a bundles product. See [Creating and Managing Product Bundles](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/products/managing-products/creating-and-managing-product-bundles.html) to know more.
 7. Click **Save**.
 The page is refreshed and you can see two additional tabs: *Discontinue* and* Product Alternatives*. See  [Discontinuing products](https://documentation.spryker.com/docs/discontinuing-a-product) and [Adding product alternatives](https://documentation.spryker.com/docs/adding-product-alternatives) to know more.
 

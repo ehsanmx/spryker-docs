@@ -135,4 +135,4 @@ Selecting a product both as a part of a category in the **Product Pages per Cate
 </details>
 ***
 **What's next?**
-To know more about the attributes you see, see the [Slots: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html) article.
+To know more about the attributes you see, see the [Slots: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html) article.

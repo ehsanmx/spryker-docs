@@ -29,4 +29,4 @@ While viewing a reclamation, you can:
 
 ***
 **What's next?**
-To learn about additional details regarding the Reclamations page, see the [Reclamations: Reference Information](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/sales/reclamations/references/reclamations-reference-information.html) article.
+To learn about additional details regarding the Reclamations page, see the [Reclamations: Reference Information](/docs/scos/user/user-guides/201903.0/back-office-user-guide/sales/reclamations/references/reclamations-reference-information.html) article.

@@ -153,9 +153,9 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office user guides</summary>
     
-* [Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/slots.html) 
+* [Slots](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/slots.html) 
 * [Managing Slots](https://documentation.spryker.com/docs/managing-slots)
-* [Slots: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html)
+* [Slots: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html)
          
 </details>
 

@@ -73,7 +73,7 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office User guides</summary>
     
-* [Assigning an image to a category in the Back Office](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/creating-categories.html)
+* [Assigning an image to a category in the Back Office](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/creating-categories.html)
 * [Sorting order for product image sets](https://documentation.spryker.com/v4/docs/managing-categories#ordering-products-in-categories)
     
 </details>
@@ -120,8 +120,8 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office User guides</summary>
     
-* [Creating Content Items](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/creating-content-items.html)
-* [Editing Content Items](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/editing-content-items.html)
+* [Creating Content Items](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/creating-content-items.html)
+* [Editing Content Items](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/editing-content-items.html)
     
 </details>
 
@@ -145,8 +145,8 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office User guide</summary>
     
-* [Adding Content Item Widgets to Pages and Blocks](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html)
-* [Editing Content Item Widgets](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/editing-content-item-widgets.html)
+* [Adding Content Item Widgets to Pages and Blocks](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html)
+* [Editing Content Item Widgets](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/editing-content-item-widgets.html)
     
 </details>
 
@@ -183,9 +183,9 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Shop User guides</summary>
     
-* [Creating a Request for Quote \[Buyer\]](/docs/scos/dev/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-creating-a-request-for-quote.html)
-* [Managing Requests for Quotes](/docs/scos/dev/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-managing-requests-for-quotes-for-a-buyer.html)
-* [Managing Requests for Quotes \[Sales Representative\]](/docs/scos/dev/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-managing-requests-for-quotes-for-a-sales-representative.html)		
+* [Creating a Request for Quote \[Buyer\]](/docs/scos/user/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-creating-a-request-for-quote.html)
+* [Managing Requests for Quotes](/docs/scos/user/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-managing-requests-for-quotes-for-a-buyer.html)
+* [Managing Requests for Quotes \[Sales Representative\]](/docs/scos/user/user-guides/201907.0/shop-user-guide/quotation-proces-and-rfq/shop-guide-managing-requests-for-quotes-for-a-sales-representative.html)		
     
 </details>
 <!--
@@ -219,7 +219,7 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Shop User guides</summary>
     
-[Managing Comments](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-comments/shop-guide-managing-comments.html)
+[Managing Comments](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-comments/shop-guide-managing-comments.html)
     
 </details>
 

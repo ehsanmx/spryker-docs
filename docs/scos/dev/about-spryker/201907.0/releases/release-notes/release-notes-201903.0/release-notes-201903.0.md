@@ -67,13 +67,13 @@ Spryker improved search capabilities by including CMS pages in search results. N
 The new template for the category page provides another navigation option for shops with a complex category structure. Having clicked a top-level category, a webshop visitor will be redirected to a subcategory page that shows a grid consisting of subcategory images. The shop owner can assign an image to each category in Back Office that will be shown on the page.
 ![New template for category page](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/Releases/Release+notes/Release+Notes+201903.0/image2.png){height="" width=""}
 
-**Documentation**: [Assigning a Template for a Category Page](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/category.html)
+**Documentation**: [Assigning a Template for a Category Page](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/category.html)
 
 ### CMS Block Widget
 With the CMS Block widget, a content manager can create and manage content displayed on one or several CMS pages. This allows reusing existing content or adding promotional elements such as banners that will be shown on the website during the defined time configured per CMS Block.
 ![CMS block widget](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/Releases/Release+notes/Release+Notes+201903.0/image5.png){height="" width=""}
 
-**Documentation**: [CMS Block widget](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/content-management/content-widgets/content-widgets.html)
+**Documentation**: [CMS Block widget](/docs/scos/user/user-guides/201903.0/back-office-user-guide/content-management/content-widgets/content-widgets.html)
 
 ## Session Management Improvement 
 In this release, we have improved the way the session works in Spryker. Out of the box, your customers and users will be able to interact with the web sites for as long as they are active.

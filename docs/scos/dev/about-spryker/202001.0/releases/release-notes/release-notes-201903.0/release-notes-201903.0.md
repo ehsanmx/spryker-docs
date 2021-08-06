@@ -67,7 +67,7 @@ Spryker improved search capabilities by including CMS pages in search results. N
 The new template for the category page provides another navigation option for shops with a complex category structure. Having clicked a top-level category, a webshop visitor will be redirected to a subcategory page that shows a grid consisting of subcategory images. The shop owner can assign an image to each category in Back Office that will be shown on the page.
 ![New template for category page](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/Releases/Release+notes/Release+Notes+201903.0/image2.png){height="" width=""}
 
-**Documentation**: [Assigning a Template for a Category Page](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/category.html)
+**Documentation**: [Assigning a Template for a Category Page](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/category.html)
 
 ### CMS Block Widget
 With the CMS Block widget, a content manager can create and manage content displayed on one or several CMS pages. This allows reusing existing content or adding promotional elements such as banners that will be shown on the website during the defined time configured per CMS Block.
@@ -135,7 +135,7 @@ We are introducing one of the core B2B features which enables managers to contro
 * Business on Behalf: Back Office interface for creating Business on Behalf users has been implemented. Now, the feature supports both ways to create Business on Behalf users – via Import and through the Admin UI.
 * Reclamation: Allows creating a reclamation from an order on the item level.
 
-**Documentation**: [Checkout](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-checkout/shop-guide-address-step.html), [Business on Behalf](/docs/scos/dev/features/202001.0/company-account-management/business-on-behalf/business-on-behalf.html), [Reclamations](https://documentation.spryker.com/v4/docs/reclamations-201903).
+**Documentation**: [Checkout](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-checkout/shop-guide-address-step.html), [Business on Behalf](/docs/scos/dev/features/202001.0/company-account-management/business-on-behalf/business-on-behalf.html), [Reclamations](https://documentation.spryker.com/v4/docs/reclamations-201903).
 
 ## Partner Integrations
 ### Heidelpay Marketplace Payments

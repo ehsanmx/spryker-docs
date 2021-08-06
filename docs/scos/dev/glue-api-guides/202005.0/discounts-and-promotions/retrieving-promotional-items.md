@@ -10,7 +10,7 @@ The [Promotions](https://documentation.spryker.com/v5/docs/discount-feature-over
 
 {% info_block infoBox "Info" %}
 
-For more details on how to create the discount conditions, see [Creating a Cart Rule Discount](/docs/scos/dev/user-guides/202005.0/back-office-user-guide/merchandising/discount/creating-a-discount/creating-a-cart-rule.html).
+For more details on how to create the discount conditions, see [Creating a Cart Rule Discount](/docs/scos/user/user-guides/202005.0/back-office-user-guide/merchandising/discount/creating-a-discount/creating-a-cart-rule.html).
 
 {% endinfo_block %}
 

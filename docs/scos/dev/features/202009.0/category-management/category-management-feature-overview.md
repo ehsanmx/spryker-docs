@@ -44,10 +44,10 @@ For example, the "Smart watches" category is assigned to the "Product Bundles" a
 
 ![multiple-parents.png](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Catalog+Management/Category+Management/Category+Management+Feature+Overview/multiple-parents.png){height="" width=""}
 
-The order of child categories shown in the category tree in the front end can be manually resorted in the **Back Office > Category** section using the **Re-sort child categories** action. For more information, see [Managing Categories](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/managing-categories.html).
+The order of child categories shown in the category tree in the front end can be manually resorted in the **Back Office > Category** section using the **Re-sort child categories** action. For more information, see [Managing Categories](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/managing-categories.html).
 
 ## Category Templates
-In the front end, a category can be represented by different templates which are used in different scenarios. In the back end, category template is specified in the **Back Office > Category section > Edit Category page > General information** tab. For more details on category template assignment, see [Creating Categories](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/creating-categories.html).
+In the front end, a category can be represented by different templates which are used in different scenarios. In the back end, category template is specified in the **Back Office > Category section > Edit Category page > General information** tab. For more details on category template assignment, see [Creating Categories](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/creating-categories.html).
 
 ### Catalog
 {% info_block infoBox %}

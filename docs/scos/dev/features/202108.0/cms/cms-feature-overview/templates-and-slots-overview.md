@@ -138,8 +138,8 @@ See [Content Items](https://documentation.spryker.com/docs/content-items) to lea
 ### <a id="applying-templates-with-slots"></a>Applying Templates with Slots
 The template with slots can be applied to any page. Even though a content manager can manage all page types in the Back Office, they can only apply templates with slots to the following:
 
-* Category pages in the Back Office > **Category > Create category** section. See [Creating Categories](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/creating-categories.html) for more information.
-* CMS pages in the Back Office > **Pages > Create new CMS page** section. See [Creating a CMS Page](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/creating-categories.html) for more information.
+* Category pages in the Back Office > **Category > Create category** section. See [Creating Categories](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/creating-categories.html) for more information.
+* CMS pages in the Back Office > **Pages > Create new CMS page** section. See [Creating a CMS Page](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/creating-categories.html) for more information.
 
 A developer can apply templates with slots to all the other page types.
 

@@ -138,7 +138,7 @@ To add a shopping list with product items to cart, select the shopping list (lis
 
 ![Add selected to cart](https://spryker.s3.eu-central-1.amazonaws.com/docs/User+Guides/Shop+User+Guides/Shopping+Lists/place-order.png){height="" width=""}
 
-The shopping list with the available items will be added to the shopping cart. See [Shopping Cart](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-shopping-carts/shop-guide-managing-shopping-carts.html) to learn how to manage and purchase items using the cart.
+The shopping list with the available items will be added to the shopping cart. See [Shopping Cart](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-shopping-carts/shop-guide-managing-shopping-carts.html) to learn how to manage and purchase items using the cart.
 
 ### Dismissing Shared Shopping Lists
 

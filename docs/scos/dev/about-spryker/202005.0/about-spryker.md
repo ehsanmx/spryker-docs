@@ -69,7 +69,7 @@ This documentation site contains lots of information on Spryker Commerce OS. Sel
 * [Spryker Installation Guides](/docs/scos/dev/developer-guides/202005.0/installation/about-the-installation-guides.html): installation of Spryker.
 * [Features](/docs/scos/dev/features/202005.0/about-features.html): the Spryker features.
 * [Glue REST API](/docs/scos/dev/glue-api-guides/202005.0/glue-rest-api.html): Spryker Glue REST API overview, reference, and features.
-* [User Guides](/docs/scos/dev/user-guides/202005.0/about-user-guides.html): step-by-step Backoffice and Storefront user guides.
+* [User Guides](/docs/scos/user/user-guides/202005.0/about-user-guides.html): step-by-step Backoffice and Storefront user guides.
 * [Developer Guides](/docs/scos/dev/developer-guides/202005.0/about-the-developer-guides.html): technical information and guides for developers. 
 * [Technology Partners](https://documentation.spryker.com/v5/docs/partner-integration): Spryker technology partners information and integration guides.
 * [Migration and Integration Guides](/docs/scos/dev/migration-and-integration/202005.0/about-migration-and-integration-guides.html): instructions on how to migrate to newer versions of modules or features.

@@ -20,5 +20,5 @@ This is how a Spryker Admin interacts with the other departments to set up and m
 In order to set the shipment structure, you set up the carrier company first.
 To know more about how you set up and manage the shipment methods and carrier companies, see the following articles: 
 
-* [Creating a Carrier Company](/docs/scos/dev/user-guides/201907.0/back-office-user-guide/shipment/creating-a-carrier-company.html)
-* [Creating and Managing Shipment Methods](/docs/scos/dev/user-guides/201907.0/back-office-user-guide/shipment/creating-and-managing-shipment-methods.html)
+* [Creating a Carrier Company](/docs/scos/user/user-guides/201907.0/back-office-user-guide/shipment/creating-a-carrier-company.html)
+* [Creating and Managing Shipment Methods](/docs/scos/user/user-guides/201907.0/back-office-user-guide/shipment/creating-and-managing-shipment-methods.html)

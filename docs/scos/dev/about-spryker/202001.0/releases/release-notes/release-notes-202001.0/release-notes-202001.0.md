@@ -60,8 +60,8 @@ The **Scheduled Price** feature allows you to define a price for your products t
 #### Documentation
 
 * [Scheduled Prices](https://documentation.spryker.com/v4/docs/scheduled-prices-201907)
-* [Creating Scheduled Prices in the Back Office](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/creating-scheduled-prices.html)
-* [Managing Scheduled Prices in the Back Office](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/managing-scheduled-prices.html)
+* [Creating Scheduled Prices in the Back Office](/docs/scos/user/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/creating-scheduled-prices.html)
+* [Managing Scheduled Prices in the Back Office](/docs/scos/user/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/managing-scheduled-prices.html)
 
 ### Multi-store Improvements
 Spryker increases the number of features that you can manage per store.

@@ -73,7 +73,7 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office User guides</summary>
     
-* [Assigning an image to a category in the Back Office](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/category/creating-categories.html)
+* [Assigning an image to a category in the Back Office](/docs/scos/user/user-guides/201903.0/back-office-user-guide/category/creating-categories.html)
 * [Sorting order for product image sets](https://documentation.spryker.com/v2/docs/managing-categories#ordering-products-in-categories)
     
 </details>

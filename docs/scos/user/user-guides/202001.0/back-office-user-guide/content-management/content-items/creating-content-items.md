@@ -22,7 +22,7 @@ Follow the steps below to select a content item you want to create:
 
 See [Content Items Types: Module Relations](https://documentation.spryker.com/v4/docs/content-items-types-module-relations-201907) to learn more about the content item types.
 
-See [Content Items: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/references/content-items-reference-information.html) to learn about the attributes on this page.
+See [Content Items: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/references/content-items-reference-information.html) to learn about the attributes on this page.
 
 ## Create a Banner
 Follow the steps to create a Banner:
@@ -219,5 +219,5 @@ Make sure to click **Save** before clicking **Back to Content Items** or going t
 **What's next?**
 The content item is created. Now, you can add it to a CMS block. 
 
-* To learn about adding content item to CMS blocks or a pages, see [Adding Content Item Widgets to Pages and Blocks](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html).
-* To learn about editing content items, see [Editing Content Items](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/editing-content-items.html).
+* To learn about adding content item to CMS blocks or a pages, see [Adding Content Item Widgets to Pages and Blocks](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html).
+* To learn about editing content items, see [Editing Content Items](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/editing-content-items.html).

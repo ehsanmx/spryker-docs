@@ -22,7 +22,7 @@ Company users can create not just one, but multiple shopping lists to be used fo
 These could be, for instance, separate shopping lists for daily, weekly and monthly purchases.
 {% endinfo_block %}
 
-The detailed information on managing shopping lists is covered in the [Shop User Guide](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-shopping-lists.html).
+The detailed information on managing shopping lists is covered in the [Shop User Guide](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-shopping-lists.html).
 
 ## Permissions Management for Shared Shopping Lists
 

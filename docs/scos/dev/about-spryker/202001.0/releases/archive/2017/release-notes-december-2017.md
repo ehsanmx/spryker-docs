@@ -273,7 +273,7 @@ The following content has been added to the Academy:
 * [Navigation](/docs/scos/dev/features/202001.0/navigation/navigation.html)
 * [Product Groups](/docs/scos/dev/about-spryker/202001.0/videos-and-webinars/configure-product-groups-in-spryker.html)
 * [Product Management](https://documentation.spryker.com/v4/docs/product-management)
-* [Product Sets](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/product-sets/product-sets.html)
+* [Product Sets](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/product-sets/product-sets.html)
 * [Wishlists](/docs/scos/dev/features/202001.0/wishlist/wishlist.html)
  
 Your feedback would be highly appreciated. Please help us understand what you need from the Spryker Academy by filling out a very short survey [here](https://docs.google.com/forms/d/1_vZg0lfqq24Qf9-fQhU50NgsEBy4eDqnDyx7gKz9Faw/edit).

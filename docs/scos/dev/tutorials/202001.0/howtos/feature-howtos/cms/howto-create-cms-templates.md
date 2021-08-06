@@ -61,7 +61,7 @@ To learn how the template is created, check the exemplary procedure below.
 
 The text in the defined placeholders will be replaced at runtime by the glossary keys assigned to them.
 
-A content manager can apply this template when [creating a CMS page](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/pages/creating-a-cms-page.html) in the Back Office.
+A content manager can apply this template when [creating a CMS page](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/pages/creating-a-cms-page.html) in the Back Office.
 
 ## Template with Slots
 
@@ -78,8 +78,8 @@ A content manager can apply this template when [creating a CMS page](/docs/scos/
 
 Templates with slots are universal. In the Back Office, a content manager can:
 
-*     apply this template when [creating a CMS page](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/pages/creating-a-cms-page.html).
-*     apply this template when [creating a category](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/category/creating-categories.html).
+*     apply this template when [creating a CMS page](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/pages/creating-a-cms-page.html).
+*     apply this template when [creating a category](/docs/scos/user/user-guides/202001.0/back-office-user-guide/category/creating-categories.html).
 
 {% info_block warningBox %}
 
@@ -101,7 +101,7 @@ Create the Twig template - `src/Pyz/Yves/CmsBlock/Theme/default/template/hello.t
 </div>	
 ```
  
-A content manager can apply this template when [creating a CMS block](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/blocks/creating-a-cms-block.html) in the Back Office.
+A content manager can apply this template when [creating a CMS block](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/blocks/creating-a-cms-block.html) in the Back Office.
 
 ## Content Item Widget Template
 

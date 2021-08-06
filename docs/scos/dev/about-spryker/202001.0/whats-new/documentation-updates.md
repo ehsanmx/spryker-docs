@@ -117,9 +117,9 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office user guides</summary>
     
-* [Creating Scheduled Prices](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/creating-scheduled-prices.html)
-* [Managing Scheduled Prices](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/managing-scheduled-prices.html)
-* [Scheduled Prices: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/references/scheduled-prices-reference-information.html)   
+* [Creating Scheduled Prices](/docs/scos/user/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/creating-scheduled-prices.html)
+* [Managing Scheduled Prices](/docs/scos/user/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/managing-scheduled-prices.html)
+* [Scheduled Prices: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/price/scheduled-prices/references/scheduled-prices-reference-information.html)   
     
 </details>
 
@@ -153,9 +153,9 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Back Office user guides</summary>
     
-* [Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/slots.html) 
-* [Managing Slots](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/managing-slots.html)
-* [Slots: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html)
+* [Slots](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/slots.html) 
+* [Managing Slots](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/managing-slots.html)
+* [Slots: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/slots/references/slots-reference-information.html)
          
 </details>
 
@@ -188,7 +188,7 @@ Below you will find the list of the new/updated documentation released as part o
 <details open>
 <summary>Shop User guide</summary>
     
-[Shop Guide - Approval Process](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-approval-process.html)
+[Shop Guide - Approval Process](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-approval-process.html)
 
     
 </details>
@@ -305,18 +305,18 @@ Below you will find the list of the new/updated documentation released as part o
 #### Back Office user guides:
 
 * Payment Management
-    * [Managing Payment Methods](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/payment-management/managing-payment-methods.html)
-    * [Payment Methods: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/payment-management/references/payment-methods-reference-information.html)
-* [Shipment](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/shipment/shipment.html)
+    * [Managing Payment Methods](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/payment-management/managing-payment-methods.html)
+    * [Payment Methods: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/payment-management/references/payment-methods-reference-information.html)
+* [Shipment](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/shipment/shipment.html)
 
-    * [Creating a Carrier Company](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/shipment/creating-a-carrier-company.html)
-    * [Creating and Managing Delivery Methods](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/shipment/creating-and-managing-delivery-methods.html)
+    * [Creating a Carrier Company](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/shipment/creating-a-carrier-company.html)
+    * [Creating and Managing Delivery Methods](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/shipment/creating-and-managing-delivery-methods.html)
     * [Delivery Methods: Reference Information](https://documentation.spryker.com/v4/docs/delivery-methods-reference-information )
  * Warehouses
-    * [Creating a Warehouse](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/warehouses/creating-a-warehouse.html)
-    * [Managing Warehouses](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/warehouses/managing-warehouses.html)
-    * [Warehouses: Reference Information](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/warehouses/references/warehouses-reference-information.html)
- * [Stores](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/administration/stores.html)
+    * [Creating a Warehouse](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/warehouses/creating-a-warehouse.html)
+    * [Managing Warehouses](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/warehouses/managing-warehouses.html)
+    * [Warehouses: Reference Information](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/warehouses/references/warehouses-reference-information.html)
+ * [Stores](/docs/scos/user/user-guides/202001.0/back-office-user-guide/administration/stores.html)
 
 #### HowTos:
 

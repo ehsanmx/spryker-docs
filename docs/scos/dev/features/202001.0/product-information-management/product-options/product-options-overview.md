@@ -47,7 +47,7 @@ On the product detail page, the new product option group (1) will be displayed a
 
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/Features/Product+Management/Product+Options/Product+Options+Overview/product-option-yves.png){height="" width=""}
 
-For more information about what other actions customers can perform on the product detail page, see [Shop Guide - Managing Products](/docs/scos/dev/user-guides/202001.0/shop-user-guide/shop-guide-managing-products.html). 
+For more information about what other actions customers can perform on the product detail page, see [Shop Guide - Managing Products](/docs/scos/user/user-guides/202001.0/shop-user-guide/shop-guide-managing-products.html). 
 
 ## Current Constraints
 {% info_block infoBox %}

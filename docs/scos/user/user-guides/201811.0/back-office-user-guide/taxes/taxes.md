@@ -30,4 +30,4 @@ The tax sets are later applied to Products, Thresholds, or Shipment Methods.
 **What's next?**
 To know how to manage tax sets and rates, see [Managing Tax Rates and Sets](https://documentation.spryker.com/v1/docs/managing-tax-rates-and-sets).
 
-To know more about the attributes you use to manage tax rates and sets, see [Taxes: Reference Information](/docs/scos/dev/user-guides/201811.0/back-office-user-guide/taxes/tax-rates-and-tax-sets/references/taxes-reference-information.html).
+To know more about the attributes you use to manage tax rates and sets, see [Taxes: Reference Information](/docs/scos/user/user-guides/201811.0/back-office-user-guide/taxes/tax-rates-and-tax-sets/references/taxes-reference-information.html).

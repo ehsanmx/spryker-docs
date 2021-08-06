@@ -68,7 +68,7 @@ To view a page:
     * Placeholders
 
 {% info_block infoBox %}
-See  [CMS Page: Reference Information](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/content-management/pages/references/cms-pages-reference-information.html
+See  [CMS Page: Reference Information](/docs/scos/user/user-guides/201903.0/back-office-user-guide/content-management/pages/references/cms-pages-reference-information.html
 {% endinfo_block %}  to learn more about attributes on this page.)
 ***
 **Tips & Tricks**
@@ -95,4 +95,4 @@ To activate a page, click **Activate** in the _Actions_ column on the _Overview 
 To deactivate a page, click **Deactivate** in the _Actions_ column on the _Overview of CMS Pages_ page. This will change the status to Inactive and remove the page from the store website.
 ***
 **What's next?**
-To know more about the attributes you see, select and enter while managing CMS pages, see the [CMS Pages: Reference Information](/docs/scos/dev/user-guides/201903.0/back-office-user-guide/content-management/pages/references/cms-pages-reference-information.html) article. 
+To know more about the attributes you see, select and enter while managing CMS pages, see the [CMS Pages: Reference Information](/docs/scos/user/user-guides/201903.0/back-office-user-guide/content-management/pages/references/cms-pages-reference-information.html) article. 

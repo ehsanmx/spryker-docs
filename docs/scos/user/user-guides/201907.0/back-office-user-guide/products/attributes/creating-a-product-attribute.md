@@ -33,6 +33,6 @@ Keep in mind that it should not contain any special symbols.
 If you want to apply this translation to other languages, click **Copy to other languages** icon next to the translation field.
 ***
 **What's next?**
-Learn how the product attributes are managed in the [Managing Product Attributes](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/attributes/managing-attributes.html) article. 
+Learn how the product attributes are managed in the [Managing Product Attributes](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/attributes/managing-attributes.html) article. 
 
-Review the [References](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/attributes/references/attributes-reference-information.html) section to learn more about the attributes you populate for the Attribute entity and the examples of how the attributes are used. 
+Review the [References](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/attributes/references/attributes-reference-information.html) section to learn more about the attributes you populate for the Attribute entity and the examples of how the attributes are used. 

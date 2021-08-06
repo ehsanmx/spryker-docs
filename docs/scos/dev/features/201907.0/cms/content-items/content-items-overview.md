@@ -25,7 +25,7 @@ See [Content Items Types: Module Relations](/docs/scos/dev/features/201907.0/cms
 
 Depending on your needs, the **Banner** content item, for example, can be used for displaying a new banner to promote a specific brand or collection on the website. The **Product Set** content item can be added to a landing page and display a product set as a slider or carousel from which your customers can select a product or all products to add them to the cart with one click. Inserting a **File List** content item in any placeholder of a page or block will add a link or icon to download that file.
 
-After the content item is created and saved, it appears on the _List of Content Items_ page. Later on, you can add it to blocks or pages via content item widgets. See [Adding Content Item Widgets to Pages and Blocks](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html) for more details.
+After the content item is created and saved, it appears on the _List of Content Items_ page. Later on, you can add it to blocks or pages via content item widgets. See [Adding Content Item Widgets to Pages and Blocks](/docs/scos/user/user-guides/202001.0/back-office-user-guide/content-management/content-items/content-item-widgets/adding-content-item-widgets-to-pages-and-blocks.html) for more details.
 
 {% info_block infoBox %}
 Spryker provides several basic types of templates for content items. However, developers can create and customize specific types of templates for their particular project. See [HowTo - Create CMS Templates](https://documentation.spryker.com/v4/docs/ht-create-cms-templates#adding-a-template-for-a-content-item-widget

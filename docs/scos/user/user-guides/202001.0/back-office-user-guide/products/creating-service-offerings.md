@@ -21,7 +21,7 @@ The first thing you need to do to start selling a product with either free or ch
 To create the product, do the following:
 
 1. Go to **Products > Products** section and click Create Product on the top-right corner of the page.
-2. Populate the necessary fields in the **General, Price & Tax, Variants, SEO, Image** tabs. See [Creating an Abstract Product](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/products/abstract-products/creating-an-abstract-product.html) for details on the tabs and their values.
+2. Populate the necessary fields in the **General, Price & Tax, Variants, SEO, Image** tabs. See [Creating an Abstract Product](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/products/abstract-products/creating-an-abstract-product.html) for details on the tabs and their values.
 3. Click **Save**. Your product is now created and will appear in the list of products in the **Products > Products** section.
 4. Activate the product:
     1. In the list of products in the **Products > Products** section, find your product and click **Edit** in the *Actions* column for it.
@@ -47,7 +47,7 @@ See below for information and step-by-step guides on each of the approaches.
 This approach is suitable only for Scenario 1 - that is, when the service is optional.
 
 {% endinfo_block %}
-You can make the service, in our example, the installation service, a [product option](/docs/scos/dev/user-guides/202001.0/back-office-user-guide/products/product-options/product-options.html) of the product you sell. In this case, the installation service will not be a separate product, but an optional part of the product. This means that buyers can decide on their own if they need the service. 
+You can make the service, in our example, the installation service, a [product option](/docs/scos/user/user-guides/202001.0/back-office-user-guide/products/product-options/product-options.html) of the product you sell. In this case, the installation service will not be a separate product, but an optional part of the product. This means that buyers can decide on their own if they need the service. 
 
 To implement this approach, you need to create the Service product option and tie it to the respective product.
 
