@@ -6,7 +6,7 @@ template: concept-topic-template
 
 This article provides details about the Datasource Inline Table service in the Components Library.
 
-Datasource Inline Table is an Angular Service that allows passing transformed for the table format data along with the configuration of the Datasource.
+Datasource Inline Table is an Angular Service that allows passing the transformed data along with the configuration of the Datasource.
 Check out this example below to see how to use the Datasource Inline Table service.
 
 - `type` - is a datasource type.  
